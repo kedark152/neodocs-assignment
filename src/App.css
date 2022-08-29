@@ -1,0 +1,4 @@
+.checkbox-container label,
+.checkbox-container input {
+  cursor: pointer;
+}
